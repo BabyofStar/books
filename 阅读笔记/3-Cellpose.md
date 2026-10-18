@@ -2,7 +2,7 @@
 
 ## 1. 基本信息
 
-- **标题:** Cellpose: a generalist algorithm for cellular segmentation (Cellpose：一种通用的细胞分割算法)
+- **标题:** Cellpose: a generalist algorithm for cellular segmentation
 - **作者:** Carsen Stringer, Tim Wang, Michalis Michaelos, Marius Pachitariu
 - **年份 / 会议:** 2020 / bioRxiv (后发表于 Nature Methods)
 - **关键词:** 细胞分割 (Cellular Segmentation), 深度学习 (Deep Learning), 通用算法 (Generalist Algorithm), 矢量流 (Vector Flows)
